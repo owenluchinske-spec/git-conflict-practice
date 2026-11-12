@@ -1,1 +1,1 @@
-# git-conflict-practice: OL
+git-conflict-practice - BY: OZC & OML
